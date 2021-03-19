@@ -9,6 +9,7 @@ int main()
     cout<<date;
     return 0;
 }
+//Result will look like this : https://ibb.co/VBFDLt5
 //Programed By LML STUDIO
 //Page: https://lml-studio.itch.io/
 //You can use my code without credit but I'll appreciate if you do
