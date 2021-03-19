@@ -9,3 +9,9 @@ int main()
     cout<<date;
     return 0;
 }
+//Programed By LML STUDIO
+//Page: https://lml-studio.itch.io/
+//You can use my code without credit but I'll appreciate if you do
+/*Change logs:
+  v1.0 ( 19/03/2021 ): Project Finished
+*/
